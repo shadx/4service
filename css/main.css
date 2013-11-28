@@ -1,7 +1,11 @@
 .b-wrapper {
-  
+  width: 970px;
+  margin: 0 auto;
 }
-
+.b-wrapper__width {
+  width: 1034px;
+  margin: 0 auto;
+}
 .b-header {
   
 }
