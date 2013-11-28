@@ -15,9 +15,12 @@
 </head>
 <body>
 	<div class="b-wrapper">
+<<<<<<< HEAD
     <div class="b-header">
       
     </div>
+=======
+>>>>>>> 383e64338cbb7a4718cdbe6d621fd4ad5bfab35b
     
     <div class="b-content">
     
