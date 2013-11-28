@@ -1,0 +1,24 @@
+P {
+  margin: 0;
+  padding: 0;
+}
+.b-text {
+  padding: 12px 19px 0 19px;
+  margin-top: 19px;
+  background: #F6F6F6;
+  font: 14px/20px arial;
+  color: #1F1E1E;
+  overflow: hidden;
+}
+.b-text P {
+  margin: 0 0 20px 0;
+  font: 14px/20px arial;
+  color: #1F1E1E;
+}
+.b-text A {
+  color: #1F1E1E;
+  text-decoration: underline;
+}
+.b-text A:hover {
+  text-decoration: none;
+}
