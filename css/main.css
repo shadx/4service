@@ -142,6 +142,7 @@
   text-shadow: 1px 1px 0 white;
 }
 .b-steps_misteryshopers__list {
+  margin-bottom: 30px;
   overflow: hidden;
 }
 .b-steps_misteryshopers__item {
@@ -166,4 +167,51 @@
 .b-steps_misteryshopers__name STRONG {
   color: #D12A18;
   text-transform: uppercase;
+}
+
+.b-steps_misteryshopers__other {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.b-steps_misteryshopers__left {
+  float: left;
+  /* width: 440px; */
+  width: 400px;
+}
+.b-steps_misteryshopers__left_img {
+  margin-bottom: 46px;
+  text-align: center;
+}
+.b-steps_misteryshopers__left_link {
+  
+}
+.b-steps_misteryshopers__left_link A {
+  display: block;
+  width: 324px;
+  height: 50px;
+  margin: 0 auto;
+  background: #D20A1F;
+  border-radius: 6px;
+  font: bold 16px/50px arial;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 0 #A10309;
+}
+.b-steps_misteryshopers__right {
+  float: right;
+  /* width: 490px; */
+  width: 486px;
+}
+.b-steps_misteryshopers__right_title {
+  margin-bottom: 26px;
+  font: bold 23px/23px arial;
+  color: #39474A;
+}
+.b-steps_misteryshopers__right_video {
+  overflow: hidden;
+}
+.b-steps_misteryshopers__right_text {
+  margin-top: 24px;
+  font: italic 14px arial;
+  color: #4C4C4C;
 }
