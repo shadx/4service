@@ -351,7 +351,7 @@ P {
 .b-text {
   font: 14px/15px 'open_sansregular';
   color: #252525;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
   overflow: hidden;
 }
 .b-text__width-right {
