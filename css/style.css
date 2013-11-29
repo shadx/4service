@@ -4,8 +4,9 @@ P {
 }
 
   /* +b-text */
-
-.b-text {
+  
+  
+.b-text_grey {
   padding: 12px 19px 0 19px;
   margin-top: 19px;
   background: #F6F6F6;
@@ -13,16 +14,17 @@ P {
   color: #1F1E1E;
   overflow: hidden;
 }
-.b-text P {
+
+.b-text_grey P {
   margin: 0 0 20px 0;
   font: 14px/20px arial;
   color: #1F1E1E;
 }
-.b-text A {
+.b-text_grey A {
   color: #1F1E1E;
   text-decoration: underline;
 }
-.b-text A:hover {
+.b-text_grey A:hover {
   text-decoration: none;
 }
 
@@ -98,7 +100,7 @@ P {
 }
 .b-overview_col__right {
   background: url(../images/sep1.png) repeat-x left bottom;
-  padding-bottom: 28px;
+  padding-bottom: 16px;
 }
 .b-news-overview_col__item A {
   display: block;
@@ -122,17 +124,17 @@ P {
   background: none;
   padding-bottom: 0;
 }
-.b-news-overview_col__item_right P {
+.b-news-overview_col__title {
   font: 13px/16px 'open_sansregular';
   color: black;
   margin-bottom: 12px;
 }
-.b-news-overview_col__item_right A {
+.b-news-overview_col__text {
   display: block;
-  font: 13px/16px 'open_sanslight';
+  font: 12px/16px 'open_sansregular';
   color: #0F0101;
 }
-.b-news-overview_col__item_right SPAN {
+.b-news-overview_col__date {
   display: block;
   font: 12px/18px 'open_sanslight';
   color: #717070;
@@ -171,8 +173,8 @@ P {
   float: left;
   box-shadow: 1px 3px 4px #686868;
   margin: 2px 4px 13px 2px;
-  position: relative;
-  left: -8px;
+  /* position: relative;
+  left: -8px; */
 }
 .b-press-aboutus_item__title {
   dispaly: inline-block;
@@ -206,7 +208,7 @@ P {
   
 }
 .b-footer_top {
-  background: url(../images/sep1.png) repeat-x left bottom;
+  background: url(../images/sep2.png) repeat-x left bottom;
   padding: 44px 9px 16px 15px;
 }
 .b-footer_menu {
@@ -305,6 +307,189 @@ P {
   margin: 24px 10px 0 0;
 }
 /* -b-footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* +inner_1 */
+
+
+.b-bread-crumbs {
+  height: 38px;
+  background: #F5F5F5;
+  font: 12px/38px arial;
+  color: #515151;
+  padding-left: 20px;
+  margin-bottom: 21px;
+}
+.b-bread-crumbs A {
+  display: inline-block;
+  color: black;
+  text-decoration: underline;
+  background: url(../images/arrow-bread-crumbs.png) no-repeat right 16px;
+  padding-right: 10px;
+}
+.b-bread-crumbs A:hover {
+  text-decoration: none;
+}
+
+
+
+.b-text {
+  font: 14px/15px 'open_sansregular';
+  color: #252525;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+.b-text__width-right {
+  margin: 0 325px 0 0;
+  padding: 0 0 0 18px;  
+}
+.b-text__img-custom IMG {
+  display: block;
+  border: 3px solid white;
+  box-shadow: 1px 1px 4px #9B9B9B;
+  margin-bottom: 20px;
+}
+.b-text__img-custom P {
+  margin-bottom: 22px;
+}
+.b-text H1 {
+  font: bold 25px/25px arial;
+  color: #39474A;
+  margin-bottom: 26px;
+}
+
+
+
+.b-callback {
+  float: right;
+  width: 252px;
+  background: #F7F7F7;
+  border-radius: 8px;
+  padding:  16px 30px 16px 28px;
+}
+.b-callback P {
+  font: 14px/17px arial;
+  color: #333333;
+  padding-left: 2px;
+  margin-bottom: 17px;
+}
+.b-callback__margin-top {
+  margin-top: 49px;
+}
+.b-callback_title {
+  font: 20px/20px arial;
+  color: #D12A18;
+  margin-bottom: 12px;
+}
+
+.b-callback INPUT[type="text"] {
+  width: 236px;
+  height: 36px;
+  font: 14px/36px arial;
+  color: #9D9D9D;
+  background: url(../images/bg-input__callback.png) no-repeat 0 0;
+  padding-left: 17px;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  
+}
+.b-callback INPUT[type="submit"] {
+  width: 252px;
+  height: 36px;
+  font: bold 14px/36px arial;
+  color: white;
+  background: #D12A18;
+  text-align: center;
+  border: none;
+  border-radius: 8px;
+}
+
+
+/* -inner_1 */
+
+
+/* +inner_page */
+
+.b-text__no_margin {
+  padding-bottom: 0;
+}
+.b-text__no_margin H1 {
+  padding-left: 18px;
+}
+
+.b-products {
+  overflow: hidden;
+  padding-left: 15px;
+}
+.b-products_item {
+  overflow: hidden;
+}
+.b-products_item IMG {
+  float: left;
+  display: block;
+  border: 2px solid white;
+  box-shadow: 1px 1px 3px #8B8A8A;
+}
+.b-products_item__right {
+  margin-left: 146px;
+}
+.b-products_item__right_title {
+  font: bold 16px/16px arial;
+  color: #D12A18;
+  margin-bootom: 10px;
+}
+.b-products_item__right_text {
+  font: 14px/14px arial;
+  color: #252525;
+}
+.b-products_item__right_more {
+  font: 13px/13px arial;
+  color: #6F6F6F;
+  text-decoration: underline;
+}
+.b-products_item__right_more:hover {
+  text-decoration: none;
+}
+
+
+
+/* -inner_page */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
