@@ -478,3 +478,61 @@
 	right: -35px;
 	background: url(../images/main_clients-slider_right.png) no-repeat 0px 0px;
 }
+
+
+
+
+.b-feedbackof4ser__wrap {
+  background: url(../images/bg-preim_misteryshopers.png) repeat-x 0 0 #FFFFFF;
+  border-bottom: solid 1px #F4F4F4;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
+.b-feedbackof4ser__title {
+  margin: 27px 0 45px 0;
+  font: bold 25px/25px arial;
+  color: #39474A;
+  text-align: center;
+  text-shadow: 1px 1px 0 white;
+}
+.b-feedbackof4ser__list {
+  
+}
+.b-feedbackof4ser__item {
+  float: left;
+  width: 223px;
+  height: 148px;
+  padding: 10px;
+  margin: 10px 7px;
+  position: relative;
+  z-index: 1;
+  border-radius: 10px;
+  border: solid 1px #CDCDCD;
+  box-shadow: 0px 0px 7px 0px #5A5A5A;
+  background: url(../images/feedbackof4ser__item.png) repeat-x 0px 0px;
+}
+.b-feedbackof4ser__item .arrow {
+  position: absolute;
+  z-index: 2;
+  right: 50px;
+  bottom: -18px;
+  width: 19px;
+  height: 18px;
+  background: url(../images/feedbackof4ser__item-arrow.png) repeat-x 0px 0px;
+}
+.b-feedbackof4ser__item.first {
+  margin-left: 0px;
+}
+.b-feedbackof4ser__item.last {
+  margin-right: 0px;
+}
+.b-feedbackof4ser__item P {
+  font: italic 15px arial;
+  color: #313131;
+}
+.b-feedbackof4ser__item STRONG {
+  display: block;
+  font: bold 14px arial;
+  color: #313131;
+  margin: 0px 0px 10px 0px;
+}
