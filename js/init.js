@@ -38,4 +38,16 @@ $(document).ready(function(){
     $('.b-head_wslider-3').css('top', '0px');
   });
   
+  
+  
+  $('.bxslider-informcentr').bxSlider({
+    mode: 'fade',
+    captions: false,
+    controls: false,
+    auto: true,
+    pager: true
+  });
+  
+  
+  
 });

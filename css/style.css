@@ -478,6 +478,264 @@ P {
 
 
 
+/* +informcentr */
+.b-text__pad_left {
+  margin-bottom: 6px;
+}
+.b-text__border_title H1 {
+  border-bottom: 1px solid #E2E2E2;
+  padding-bottom: 8px;
+  margin-bottom: 11px;
+}
+.b-text__border_title P {
+  font: 13px/18px arial;
+  color: #3F3F3F;
+  margin-bottom: 16px;
+}
+
+
+.b-sliderbig_informcentr__ext {
+  background: #F5F5F5;
+  padding: 21px 21px 33px 27px;
+  border-radius: 17px;
+  min-height: 340px;
+  margin-bottom: 35px;
+}
+.b-sliderbig_informcentr__in {
+  float: right;
+  width: 510px;
+  height: 340px;
+}
+.b-sliderbig_informcentr__in .bx-pager {
+  width: 124px;
+  height: 36px;
+  padding: 0 0 0 16px;
+  background: url(../images/bg-pager_video.png) no-repeat 0 0;
+  position: absolute !important;
+  bottom: -48px !important;
+  left: -13px;
+  z-index: 100;
+  padding-top: 0 !important;
+}
+.b-sliderbig_informcentr__in .bx-pager .bx-pager-item  {
+  display: block;
+  float: left;
+  width: 16px;
+  height: 17px;
+  background: url(../images/pager-item__informcentr.png) no-repeat 0 0;
+  margin-top: 10px;
+  margin-right: 8px;
+}
+.b-sliderbig_informcentr__in .bx-pager .bx-pager-item .active  {
+  background: url(../images/page-item__informcentr_act.png) no-repeat 0 0;
+}
+
+.b-video_text {
+  width: 413px;
+}
+.b-video__text_title {
+  font: bold 23px/26px arial;
+  color: #39474A;
+  margin-top: 20px;
+}
+.b-video__text_title .red {
+  color: #D12A18;
+}
+.b-video__text_date {
+  font: 13px/13px arial;
+  color: #2D2D2D;
+  margin: 18px 0 18px 2px;
+}
+.b-video_text P {
+  font: 14px/17px arial;
+  color: #1F1E1E;
+  margin-bottom: 20px;
+}
+.b-video__text_more {
+  dispaly: block;
+  font: 13px/13px arial;
+  color: #D12A18;
+  text-decoration: underline;
+  margin-left: 2px;
+}
+.b-video__text_more:hover {
+  text-decoration: none;
+}
+
+
+
+
+.b-video_blog__cont {
+  overflow: hidden;
+  margin-top: 30px;
+  padding-left: 6px;
+}
+.b-head_padding {
+  padding-left: 25px !important;
+}
+.b-head_nopadding .title-block {
+  padding-left: 0;
+}
+.b-head_nomargin {
+  padding-left: 0;
+  padding-bottom: 10px;
+}
+.b-blog_small {
+  float: right;
+  width: 315px;
+  margin-right: 30px;
+}
+.b-blog_small .b-head_nomargin .title-block  {
+  padding-left: 0;
+}
+.b-blog_small__in {
+  padding-top: 24px;
+}
+.b-blog_small__item {
+  padding-left: 2px;
+  margin-bottom: 30px;
+}
+.b-blog_small__item_title {
+  font: bold 14px/14px arial;
+  color: #242424;
+}
+.b-blog_small__item_text {
+  font: 14px/14px arial;
+  color: #242424;
+  text-decoration: underline;
+}
+.b-blog_small__item_text:hover {
+  text-decoration: none;
+}
+.b-blog_small__item_date {
+  font: bold 13px/13px arial;
+  color: #494949;
+  margin-top: 13px;
+}
+
+
+
+
+.b-video_cont_ext {
+  margin-right: 385px;
+}
+.b-head_noborder {
+ border: none; 
+}
+.b-video_cont_in {
+  background: #F7F7F7;
+  padding: 29px 0 18px 39px;
+  overflow: hidden;
+}
+.b-video_cont__item {
+  width: 245px;
+  float: left;
+  margin-right: 45px;
+}
+.b-video_cont__item_video IMG {
+  display: block;
+}
+.b-video_cont__item_text {
+  font: 14px/16px arial;
+  color: black;
+  margin-top: 14px;
+}
+.b-video_cont__item_date {
+  font: 13px/13px arial;
+  color: #616161;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+.b-literature {
+  overflow: hidden;
+  padding: 30px 0 60px 0;
+}
+.b-literature .b-callback {
+  margin-top: 38px;
+  margin-right: 4px;
+}
+.b-literature .b-callback INPUT[type="text"] {
+  margin: 2px 0 14px 0;
+}
+.b-literature .b-callback INPUT[type="submit"] {
+  width: 252px;
+  background: url(../images/bg-biluten.png) no-repeat 0 0 #D12A18;
+  padding-left: 10px;
+}
+.b-callback__main .b-callback_title {
+  font: 18px/18px arial;
+  color: #D12A18;
+}
+.b-literature_cat {
+  margin-right: 352px;
+}
+.b-literature_cat .b-head {
+  padding-bottom: 8px;
+}
+.b-literature_cat__in {
+  overflow: hidden;
+  padding-top: 10px;
+}
+.b-literature_cat__item {
+  width: 195px;
+  float: left;
+  padding-right: 10px;
+}
+.b-literature_cat__item IMG {
+  dispaly: block;
+  border: 3px solid white;
+  box-shadow: 1px 1px 3px #8C8B8B;
+  margin-bottom: 12px;
+}
+.b-literature_cat__item_title {
+  font: bold 14px/14px arial;
+  color: #323330;
+}
+.b-literature_cat__item_text {
+  font: 13px/15px arial;
+  color: #323330;
+  margin: 12px 0 8px 0;
+}
+.b-literature_cat__item_more {
+  font: 12px/12px arial;
+  color: #595959;
+  text-decoration: underline;
+}
+.b-literature_cat__item_more:hover {
+  text-decoration: none;
+}
+
+
+
+
+
+
+/* -informcentr */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
