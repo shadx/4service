@@ -17,3 +17,201 @@
 .b-footer {
   
 }
+
+
+
+.b-begin_misteryshopers__wrap {
+  background: url(../images/bg-begin_misteryshopers.png) repeat-x 0 0 #F9F9F9;
+}
+.b-begin_misteryshopers {
+  height: 497px;
+  background: url(../images/begin_misteryshopers.jpg) no-repeat 0 0;
+  overflow: hidden;
+}
+.b-begin_misteryshopers__cont {
+  float: right;
+  width: 610px;
+}
+.b-begin_misteryshopers__title {
+  margin-top: 69px;
+  margin-bottom: 24px;
+  font: bold 27px arial;
+  color: #39474A;
+}
+.b-begin_misteryshopers__title P {
+  margin: 0;
+  padding: 0 0 25px 0;
+  text-align: center;
+}
+.b-begin_misteryshopers__link {
+  margin-bottom: 22px;
+}
+.b-begin_misteryshopers__link A {
+  display: block;
+  width: 388px;
+  height: 64px;
+  margin: 0 auto;
+  background: #D20A1F;
+  border-radius: 6px;
+  font: bold 20px/64px arial;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 0 #A10309;
+}
+.b-begin_misteryshopers__text1 {
+  font: 15px/15px arial;
+  color: #545454;
+  text-align: center;
+}
+.b-begin_misteryshopers__login {
+  margin: 20px 0 52px 0;
+}
+.b-but__login {
+  width: 105px;
+  display: block;
+  height: 37px;
+  margin: 0 auto;
+  background: url(../images/bg-but_login.png) repeat-x 0 0 #DBDBDB;
+  border: solid 1px #AFAFAF;
+  border-radius: 5px;
+  font: bold 17px/37px arial;
+  color: #595959;
+  text-shadow: 1px 1px 0 white;
+  text-align: center;
+}
+.b-begin_misteryshopers__text2 {
+  font: bold 18px/18px arial;
+  color: #D12A18;
+  text-align: center;
+}
+.b-begin_misteryshopers__text2 A {
+  font: bold 18px/18px arial;
+  color: #D12A18;
+  text-decoration: underline;
+}
+.b-begin_misteryshopers__text2 A:hover {
+  text-decoration: none;
+}
+
+.b-preim_misteryshopers__wrap {
+  background: url(../images/bg-preim_misteryshopers.png) repeat-x 0 0 #FFFFFF;
+  border-bottom: solid 1px #F4F4F4;
+  overflow: hidden;
+}
+.b-preim_misteryshopers__title {
+  margin: 27px 0 45px 0;
+  font: bold 25px/25px arial;
+  color: #39474A;
+  text-align: center;
+  text-shadow: 1px 1px 0 white;
+}
+.b-preim_misteryshopers__list {
+  padding-bottom: 50px;
+  overflow: hidden;
+}
+.b-preim_misteryshopers__item {
+  float: left;
+  width: 216px;
+  margin: 0 12px 30px 12px;
+}
+.b-preim_misteryshopers__img {
+  width: 216px;
+  height: 130px;
+  text-align: center;
+  overflow: hidden;
+}
+.b-preim_misteryshopers__name {
+  margin-top: 10px;
+  font: 14px arial;
+  color: #303030;
+  text-align: center;
+}
+
+.b-steps_misteryshopers__wrap {
+  background: url(../images/bg-steps_misteryshopers.png) repeat-x 0 0 white;
+  overflow: hidden;
+}
+.b-steps_misteryshopers {
+  
+}
+.b-steps_misteryshopers__title {
+  margin: 27px 0 45px 0;
+  font: bold 25px/25px arial;
+  color: #39474A;
+  text-align: center;
+  text-shadow: 1px 1px 0 white;
+}
+.b-steps_misteryshopers__list {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.b-steps_misteryshopers__item {
+  float: left;
+  width: 216px;
+  margin: 0 12px 30px 12px;
+}
+.b-steps_misteryshopers__img {
+  display: table-cell;
+  width: 216px;
+  height: 130px;
+  text-align: center;
+  vertical-align: middle;
+  overflow: hidden;
+}
+.b-steps_misteryshopers__name {
+  margin-top: 10px;
+  font: italic 15px arial;
+  color: #404040;
+  text-align: center;
+}
+.b-steps_misteryshopers__name STRONG {
+  color: #D12A18;
+  text-transform: uppercase;
+}
+
+.b-steps_misteryshopers__other {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.b-steps_misteryshopers__left {
+  float: left;
+  /* width: 440px; */
+  width: 400px;
+}
+.b-steps_misteryshopers__left_img {
+  margin-bottom: 46px;
+  text-align: center;
+}
+.b-steps_misteryshopers__left_link {
+  
+}
+.b-steps_misteryshopers__left_link A {
+  display: block;
+  width: 324px;
+  height: 50px;
+  margin: 0 auto;
+  background: #D20A1F;
+  border-radius: 6px;
+  font: bold 16px/50px arial;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 0 #A10309;
+}
+.b-steps_misteryshopers__right {
+  float: right;
+  /* width: 490px; */
+  width: 486px;
+}
+.b-steps_misteryshopers__right_title {
+  margin-bottom: 26px;
+  font: bold 23px/23px arial;
+  color: #39474A;
+}
+.b-steps_misteryshopers__right_video {
+  overflow: hidden;
+}
+.b-steps_misteryshopers__right_text {
+  margin-top: 24px;
+  font: italic 14px arial;
+  color: #4C4C4C;
+}
