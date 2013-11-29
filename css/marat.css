@@ -204,9 +204,9 @@
   display: none;
   width: 25px;
   height: 14px;
-  position: absolute;
-  z-index: 12233;
-  top: 26px;
+  position: relative;
+  z-index: 1;
+  top: 7px;
   left: 50%;
   margin-left: -5px;
   font: bold 17px helveticabold;
@@ -236,7 +236,8 @@
   display: none;
   position: absolute;
   z-index: -1;
-  top: 42px;
+  top: 20px;
+  margin-top: 22px;
   padding-top: 3px;
   border: solid 3px #FFFFFF;
   box-shadow: 2px 2px 9px 0px #373737;
