@@ -296,13 +296,13 @@ P {
   background: red;
   overflow: hidden;
   margin-top: 24px;
+  background: url(../images/ico_sprite.png) no-repeat 0px -1200px;
 }
 .b-social_footer {
   float: right;
   width: 122px;
   height: 29px;  
   margin: 24px 10px 0 0;
-  background: red;
 }
 /* -b-footer */
 

@@ -9,13 +9,22 @@
   <link href="css/main.css" rel="stylesheet" type="text/css" media="screen" />
   <link href="css/stylesheet.css" rel="stylesheet" type="text/css" media="screen" />
   <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css" media="screen" />
+<<<<<<< HEAD
   <link href="css/marat.css" rel="stylesheet" type="text/css" media="screen" />
   
   <!-- <script type="text/javascript" src="js/jquery.js"></script> -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.bxslider.js"></script>
   <script type="text/javascript" src="js/init.js"></script>
+=======
   
+  
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+  <script type="text/javascript" src="js/init.js"></script>
+  
+  
+>>>>>>> 0a886d528bb154cccf359df9c0da06250d2fec5a
 </head>
 <body>
 	
@@ -91,13 +100,21 @@
         
       </div>
     </div>
+<<<<<<< HEAD
 
 
+  <div class="b-wrapper">    
+    
+    <div class="b-content">
+    
+=======
+  </div>
   
   
   
   <div class="b-content">
     <div class="b-wrapper">
+>>>>>>> 0a886d528bb154cccf359df9c0da06250d2fec5a
       <div class="b-text">
         <p>
           Компания 4Service™ основана в 2001 г., и является сегодня одним из самых динамичных и инновационных агентств 
@@ -321,16 +338,31 @@
           <a href="#" class="b-footer_logo"></a>
           <div class="b-copy">© 2013, 4Service - Mystery Shopping</div>
           <div class="b-design"><span>Дизайн сайта</span><a href="#">DA.net</a></div>
-          <div class="b-social_footer">
-            <a class="social_link social_link-1" href="#"></a>
-            <a class="social_link social_link-2" href="#"></a>
-            <a class="social_link social_link-3" href="#"></a>
-            <a class="social_link social_link-4" href="#"></a>
-          </div>
+          <div class="b-social_footer"></div>
         </div>
         
       </div>
     </div>    
   </div>
+  
+  
+  
+  
+   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
