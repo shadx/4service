@@ -73,8 +73,7 @@
 }
 
 .b-logo_row {
-  overflow: hidden;
-  padding: 17px 0px 0px 0px;
+  padding: 17px 0px 10px 0px;
 }
 
 .b-logotype {
@@ -106,6 +105,8 @@
 .b-group {
   float: right;
   width: 405px;
+  position: relative;
+  z-index: 20;
   margin: 6px 0px 0px 0px;
 }
 .group_link {
