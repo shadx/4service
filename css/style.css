@@ -439,6 +439,7 @@ P {
 }
 .b-products_item {
   overflow: hidden;
+  margin-bottom: 46px;
 }
 .b-products_item IMG {
   float: left;
@@ -452,11 +453,12 @@ P {
 .b-products_item__right_title {
   font: bold 16px/16px arial;
   color: #D12A18;
-  margin-bootom: 10px;
 }
 .b-products_item__right_text {
-  font: 14px/14px arial;
+  font: 14px/16px arial;
   color: #252525;
+  margin-top: 14px;
+  margin-bottom: 8px;
 }
 .b-products_item__right_more {
   font: 13px/13px arial;
