@@ -536,3 +536,88 @@
   color: #313131;
   margin: 0px 0px 10px 0px;
 }
+
+
+
+.b-2friends__wrap {
+  background: url(../images/bg-steps_misteryshopers.png) repeat-x 0 0 white;
+  overflow: hidden;
+}
+.b-2friends {
+  
+}
+.b-2friends__title {
+  margin: 27px 0 0px 0;
+  font: bold 25px/25px arial;
+  color: #39474A;
+  text-align: center;
+  text-shadow: 1px 1px 0 white;
+}
+.b-2friends__list {
+  margin-bottom: 0px;
+}
+.b-2friends__right {
+  float: right;
+  /* width: 490px; */
+  width: 465px;
+  margin: 45px 0px 0px 0px;
+}
+.b-big_social {
+  overflow: hidden;
+  width: 360px;
+  margin: 0px auto 30px auto;
+}
+.big_social__link {
+  display: block;
+  float: left;
+  width: 64px;
+  height: 64px;
+  margin: 0px 4px;
+  background: url(../images/ico_big_social.png) no-repeat 0px 0px;
+}
+.big_social__link-1 {
+  background-position: 0px 0px;
+}
+.big_social__link-2 {
+  background-position: -71px 0px;
+}
+.big_social__link-3 {
+  background-position: -142px 0px;
+}
+.big_social__link-4 {
+  background-position: -213px 0px;
+}
+.big_social__link-5 {
+  background-position: -284px 0px;
+}
+.b-2friends__left_link {
+  
+}
+.b-2friends__left_link A {
+  display: block;
+  width: 324px;
+  height: 50px;
+  margin: 0 auto;
+  background: #D20A1F;
+  border-radius: 6px;
+  font: bold 16px/50px arial;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 0 #A10309;
+}
+.b-2friends__text1 {
+  font: 15px/15px arial;
+  color: #545454;
+  margin: 10px 0px 0px 0px;
+  text-align: center;
+}
+.b-2friends__login {
+  margin: 10px 0 0px 0;
+}
+.b-2friends__img {
+  float: left;
+  width: 505px;
+  height: 321px;
+  margin-top: -40px;
+  background: url(../images/2friends__img.png) repeat-x 0px 0px;
+}
