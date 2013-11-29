@@ -174,7 +174,6 @@
 }
 .b-top_menu-bg {
   border-bottom: solid 5px #A9A9A9;
-  margin-bottom: 17px;
 }
 .b-top_menu {
   margin: 21px 0px -5px 0px;
@@ -214,6 +213,7 @@
 
 .b-slider {
   overflow: hidden;
+  margin-top: 17px;
 }
 .b-slider .bx-wrapper {
   width: 615px;
@@ -305,7 +305,9 @@
 }
 
 
-
+.b-slider .b-head_wslider-1, .b-slider .b-head_wslider-2, .b-slider .b-head_wslider-3 {
+  display: none;
+}
 
 
 
